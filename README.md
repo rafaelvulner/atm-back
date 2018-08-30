@@ -1,4 +1,4 @@
-# Interview GSW
+# Sumário
 
 Trata-se de uma aplicação que simula a entrega de notas quando um cliente efetua um saque em um caixa eletrônico. 
 
@@ -10,11 +10,12 @@ Projeto criado com Spring Boot e Java 8
 Banco de dados MySQL e H2 com JPA e Spring Data JPA
 Respostas utilizando ResponseEntity
 
+
 ## Como Executar a aplicação
 
 Certifique-se de ter o Maven instalado e adicionado ao PATH de seu sistema operacional, assim como o Git.
 
-git clone https://rafaelvulner@bitbucket.org/gsw-team/java-interview.git
+git clone https://github.com/rafaelvulner/atm-back.git
 cd java-interview
 mvn spring-boot:run
 
